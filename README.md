@@ -2,7 +2,7 @@
 
 > *2157. L'Empire Bydo envahit les profondeurs. Vous êtes le dernier rempart de l'océan.*
 
-Projet ING1 — ECE Paris — 2025/2026
+Projet ING1 — ECE Bordeaux — 2025/2026
 
 ---
 
