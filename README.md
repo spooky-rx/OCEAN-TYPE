@@ -18,10 +18,10 @@ Le joueur pilote un vaisseau sous-marin et doit survivre à des vagues d'ennemis
 
 | Membre | Rôle |
 |---|---|
-| **Mathieu** | Architecture, collisions AABB, menu |
-| **Mathis** | Joueur, tirs, ennemis |
-| **Yanis** | Boss, explosions, audio |
-| **Ali** | Niveaux, scrolling, tests |
+| **Mathieu** | `fin.c` · `joueur.c` · `main.c` — Écran de fin, déplacement joueur, initialisation |
+| **Mathis** | `sons.c/h` · `globals.h` · `entites.h` — Sons, constantes, structures de données |
+| **Yanis** | `collision.c` · `menu.c/h` — Collisions AABB, menu principal, navigation |
+| **Ali** | `jeu.c/h` · `niveaux.c` — Boucle de jeu, scrolling, boss, vagues ennemis |
 
 ---
 
@@ -161,5 +161,5 @@ Deux fonctions distinctes :
 
 ## 📄 Licence
 
-Projet académique — ECE Paris ING1 2025/2026.
+Projet académique — ECE Bordeaux ING1 2025/2026.
 Les assets graphiques et sonores sont issus de sources libres de droits.
