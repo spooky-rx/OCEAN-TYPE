@@ -21,7 +21,7 @@ Le joueur pilote un vaisseau sous-marin et doit survivre à des vagues d'ennemis
 | **Mathieu** | `jeu.c` (1ère moitié) · `fin.c` · `joueur.c` — Boucle de jeu, écran de fin, déplacement joueur |
 | **Mathis** | `jeu.c` (2ème moitié) · `main.c` · `entites.h` — Rendu, boss, initialisation, structures |
 | **Yanis** | `collision.c` · `menu.c/h` — Collisions AABB, menu principal, navigation |
-| **Ali** | `niveaux.c` · `sons.c/h` · `entites.h` · `globals.h` — Vagues ennemis, sons, constantes |
+| **Ali** | `niveaux.c` · `sons.c/h` · `globals.h` — Vagues ennemis, sons, constantes |
 
 ---
 
